@@ -1,0 +1,135 @@
+@media(max-width:2560px) and (min-width:1441px)
+{
+
+  
+}
+@media(max-width:1440px) and (min-width:1201px)
+{
+ 
+   
+  
+}
+@media(max-width:1200px) and (min-width:1025px)
+{
+
+}
+@media(max-width:1024px) and (min-width:993px)
+{
+
+}
+@media(max-width:992px) and (min-width:769px)
+{
+  .section-card
+  {
+    height: 500px;
+    position:relative
+  }
+  .section-card  .card 
+  {
+   display: block;
+
+   position: absolute;
+   left: calc(50% - 200px);
+  }
+
+  .section-card  .card  .card2 , 
+  .section-card  .card  .card1 , 
+  .section-card  .card  .card3 
+  {
+  margin-top: 20px;
+  width: 500px;
+  }
+  .section-help
+  {
+    position: relative;
+    width: 100%;
+  }
+  .section-help .cards
+  {
+    display: block;
+   margin:  auto 50%;
+   width: 100%
+   
+   
+  }
+  .section-client
+  {
+    width: 100%;
+  }
+  .section-help .cards1
+  {
+    margin-top: 20px;
+  }
+.section-client .part .head .paragraph,
+.section-client  .content .part2
+{
+  display: block;
+}
+.section-client  .content 
+{
+  width: 100%;
+}
+.section-client  .content .part2 .part3
+{
+  margin-top: 10px;
+}
+}
+
+@media(max-width:768px) and (min-width:571px)
+{
+  .section-card
+  {
+    height: 500px;
+    position:relative
+  }
+  .section-card  .card 
+  {
+   display: block;
+
+   position: absolute;
+   left: calc(50% - 200px);
+  }
+
+  .section-card  .card  .card2 , 
+  .section-card  .card  .card1 , 
+  .section-card  .card  .card3 
+  {
+  margin-top: 20px;
+  width: 500px;
+ 
+  }
+  .section-help
+  {
+    position: relative;
+    width: 100%;
+  }
+  .section-help .cards
+  {
+    display: block;
+   margin:  auto 50%;
+   width: 100%
+   
+  }
+  .section-help .cards1
+  {
+    margin-top: 20px;
+  }
+  
+}
+
+@media(max-width:570px) and (min-width:426px)
+{
+
+}
+@media(max-width:425px) and (min-width:376px)
+{
+
+}
+@media(max-width:375px) and (min-width:321px)
+{
+
+}
+@media(max-width:320px)
+{
+
+}
